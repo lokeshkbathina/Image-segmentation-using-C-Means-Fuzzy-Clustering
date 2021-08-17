@@ -3,7 +3,7 @@ from time import time
 from fcmeans import FCM
 
 
-path = r'C:\Users\Lokesh\PycharmProjects\pythonProject18\L4.jpg'
+path = r'C:\Users\Lokesh\PycharmProjects\pythonProject18\L5(TM)_farmlands_Minnesota.jpg'
 img = plt.imread(path)/255
 # Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers)
 
