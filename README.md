@@ -1,1 +1,0 @@
-# Image-segmentation-using-C-Means-Fuzzy-Clustering
